@@ -1,0 +1,5 @@
+C:\Abhishek_Training\Compunnel Project\ProductApi\ProductApi.Core\bin\Debug\ProductApi.Core.dll
+C:\Abhishek_Training\Compunnel Project\ProductApi\ProductApi.Core\bin\Debug\ProductApi.Core.pdb
+C:\Abhishek_Training\Compunnel Project\ProductApi\ProductApi.Core\obj\Debug\ProductApi.Core.csproj.CoreCompileInputs.cache
+C:\Abhishek_Training\Compunnel Project\ProductApi\ProductApi.Core\obj\Debug\ProductApi.Core.dll
+C:\Abhishek_Training\Compunnel Project\ProductApi\ProductApi.Core\obj\Debug\ProductApi.Core.pdb

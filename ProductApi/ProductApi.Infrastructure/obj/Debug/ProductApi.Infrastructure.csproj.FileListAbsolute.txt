@@ -1,0 +1,14 @@
+C:\Abhishek_Training\Compunnel Project\ProductApi\ProductApi.Infrastructure\bin\Debug\ProductApi.Infrastructure.dll.config
+C:\Abhishek_Training\Compunnel Project\ProductApi\ProductApi.Infrastructure\bin\Debug\ProductApi.Infrastructure.dll
+C:\Abhishek_Training\Compunnel Project\ProductApi\ProductApi.Infrastructure\bin\Debug\ProductApi.Infrastructure.pdb
+C:\Abhishek_Training\Compunnel Project\ProductApi\ProductApi.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Abhishek_Training\Compunnel Project\ProductApi\ProductApi.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Abhishek_Training\Compunnel Project\ProductApi\ProductApi.Infrastructure\bin\Debug\ProductApi.Core.dll
+C:\Abhishek_Training\Compunnel Project\ProductApi\ProductApi.Infrastructure\bin\Debug\ProductApi.Core.pdb
+C:\Abhishek_Training\Compunnel Project\ProductApi\ProductApi.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Abhishek_Training\Compunnel Project\ProductApi\ProductApi.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Abhishek_Training\Compunnel Project\ProductApi\ProductApi.Infrastructure\obj\Debug\ProductApi.Infrastructure.csprojAssemblyReference.cache
+C:\Abhishek_Training\Compunnel Project\ProductApi\ProductApi.Infrastructure\obj\Debug\ProductApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Abhishek_Training\Compunnel Project\ProductApi\ProductApi.Infrastructure\obj\Debug\ProductApi.Infrastructure.csproj.CopyComplete
+C:\Abhishek_Training\Compunnel Project\ProductApi\ProductApi.Infrastructure\obj\Debug\ProductApi.Infrastructure.dll
+C:\Abhishek_Training\Compunnel Project\ProductApi\ProductApi.Infrastructure\obj\Debug\ProductApi.Infrastructure.pdb
