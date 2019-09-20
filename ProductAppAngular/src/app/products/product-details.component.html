@@ -1,0 +1,8 @@
+<div class="card">
+    <img [src]='producttoedit.ImageURL' alt="Denim Jeans" style="width:100%">
+    <h1>{{producttoedit.Title}}</h1>
+    <p class="price">{{producttoedit.Price| currency:'INR':true}}</p>
+    <p>Description:{{producttoedit.Details}}</p>
+    <p><b>Rating: {{producttoedit.Rating}}</b></p>
+    <p><button (click)='Goback()' >Back</button></p>
+  </div>
